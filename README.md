@@ -1,6 +1,6 @@
 # Autenticação com o Firebase
 
-Este projeto foi criado pelo NBK Mundo Tech para o seu curso de React Native ([Autenticação com o Firebase](https://www.youtube.com/playlist?list=PLUbb2i4BuuzBvQAQfshYuqITDC4UDBipx)).
+Este projeto foi criado pelo [NBK Mundo Tech](https://www.nbkmundotech.com) para o seu curso 0005 de React Native ([Autenticação com o Firebase](https://www.youtube.com/playlist?list=PLUbb2i4BuuzBvQAQfshYuqITDC4UDBipx)).
 
 ## Instalação
 
